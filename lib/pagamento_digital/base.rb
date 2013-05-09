@@ -5,7 +5,7 @@ module PagamentoDigital
 
   # O Pagamento Digital recebe todos os pedidos nesta URL. Caso o modo desenvolvedor esteja
   # ativado então a URL será /pagamento_digital/checkout
-  GATEWAY_URL = "https://www.pagamentodigital.com.br/checkout/pay/"
+  GATEWAY_URL = "https://www.bcash.com.br/checkout/pay/"
 
   # Armazena o conteúdo do arquivo de configuração config/pagamento_digital.yml
   @@config = nil
